@@ -1,31 +1,31 @@
 # the game of 2048 (study)
 
-<http://www.2048.mobi/>
-<http://www.2048.mobi/favicon.ico>
-<http://www.2048.mobi/style/main.css>
-<http://www.2048.mobi/style/style.css>
-<http://www.2048.mobi/style/fonts/clear-sans.css>
-<http://www.2048.mobi/style/fonts/ClearSans-Bold-webfont.svg>
-<http://www.2048.mobi/style/fonts/ClearSans-Bold-webfont.eot>
-<http://www.2048.mobi/style/fonts/ClearSans-Bold-webfont.woff>
-<http://www.2048.mobi/style/fonts/ClearSans-Regular-webfont.svg>
-<http://www.2048.mobi/style/fonts/ClearSans-Regular-webfont.eot>
-<http://www.2048.mobi/style/fonts/ClearSans-Regular-webfont.woff>
-<http://www.2048.mobi/style/fonts/ClearSans-Light-webfont.svg>
-<http://www.2048.mobi/style/fonts/ClearSans-Light-webfont.eot>
-<http://www.2048.mobi/style/fonts/ClearSans-Light-webfont.woff>
-<http://2048.mobi/img/2048/4.png>
-<http://2048.mobi/img/2048/auto.png>
-<http://2048.mobi/img/2048/dogs.png>
-<http://2048.mobi/img/2048/flappy.png>
-<http://2048.mobi/img/2048/godmode.png>
-<http://2048.mobi/img/2048/original.png>
-<http://www.2048.mobi/img/2048-download.png>
-<http://www.2048.mobi/js/grid.js>
-<http://www.2048.mobi/js/tile.js>
-<http://www.2048.mobi/js/application.js>
-<http://www.2048.mobi/js/game_manager.js>
-<http://www.2048.mobi/js/html_actuator.js>
-<http://www.2048.mobi/js/animframe_polyfill.js>
-<http://www.2048.mobi/js/local_score_manager.js>
-<http://www.2048.mobi/js/keyboard_input_manager.js>
+- <http://www.2048.mobi/>
+- <http://www.2048.mobi/favicon.ico>
+- <http://www.2048.mobi/style/main.css>
+- <http://www.2048.mobi/style/style.css>
+- <http://www.2048.mobi/style/fonts/clear-sans.css>
+- <http://www.2048.mobi/style/fonts/ClearSans-Bold-webfont.svg>
+- <http://www.2048.mobi/style/fonts/ClearSans-Bold-webfont.eot>
+- <http://www.2048.mobi/style/fonts/ClearSans-Bold-webfont.woff>
+- <http://www.2048.mobi/style/fonts/ClearSans-Regular-webfont.svg>
+- <http://www.2048.mobi/style/fonts/ClearSans-Regular-webfont.eot>
+- <http://www.2048.mobi/style/fonts/ClearSans-Regular-webfont.woff>
+- <http://www.2048.mobi/style/fonts/ClearSans-Light-webfont.svg>
+- <http://www.2048.mobi/style/fonts/ClearSans-Light-webfont.eot>
+- <http://www.2048.mobi/style/fonts/ClearSans-Light-webfont.woff>
+- <http://2048.mobi/img/2048/4.png>
+- <http://2048.mobi/img/2048/auto.png>
+- <http://2048.mobi/img/2048/dogs.png>
+- <http://2048.mobi/img/2048/flappy.png>
+- <http://2048.mobi/img/2048/godmode.png>
+- <http://2048.mobi/img/2048/original.png>
+- <http://www.2048.mobi/img/2048-download.png>
+- <http://www.2048.mobi/js/grid.js>
+- <http://www.2048.mobi/js/tile.js>
+- <http://www.2048.mobi/js/application.js>
+- <http://www.2048.mobi/js/game_manager.js>
+- <http://www.2048.mobi/js/html_actuator.js>
+- <http://www.2048.mobi/js/animframe_polyfill.js>
+- <http://www.2048.mobi/js/local_score_manager.js>
+- <http://www.2048.mobi/js/keyboard_input_manager.js>
