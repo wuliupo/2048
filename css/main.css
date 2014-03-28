@@ -1,14 +1,12 @@
-@import url(clear-sans.css);
 html, body {
   margin: 0;
   padding: 0;
   background: #faf8ef;
   color: #776e65;
-  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: "微软雅黑","Microsoft YaHei","宋体",simsun, "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
-body {
-  margin: 80px 0; }
+body {margin: 10px 0 0 0; }
 
 .heading:after {
   content: "";
@@ -144,7 +142,7 @@ hr {
     opacity: 1; } }
 
 .game-container {
-  margin-top: 40px;
+  margin-top:5px;
   position: relative;
   padding: 15px;
   cursor: default;
@@ -477,7 +475,7 @@ hr {
   margin-bottom: 0; }
 
 .game-explanation {
-  margin-top: 50px; }
+  margin-top: 5px; }
 
 @media screen and (max-width: 480px) {
   html, body {

@@ -1,21 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta name="description" content="Very addictive number game for brain training.">
-  <meta name="keywords" content="2048,puzzle,game,addictive,brain,number,online,android,leaderboar,2048game">
-  <meta charset="UTF-8">
-  <title>2048 - Very addictive number game</title>
-  <link href="css/style.css" rel="stylesheet" type="text/css">
-  <link href="css/main.css" rel="stylesheet" type="text/css">
-  <link rel="shortcut icon" href="favicon.ico">
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no">
-<style type="text/css">
-body{margin: 10px 0 0 0; padding:0}
-.game-container {margin-top:5px;}
-.game-explanation {margin-top: 5px;}
-</style>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport" />
+<title>挑战2048</title>
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="favicon.ico">
 <script>
 document.addEventListener('WeixinJSBridgeReady', function onBridgeReady() {
   WeixinJSBridge.call('hideToolbar');
@@ -23,6 +14,7 @@ document.addEventListener('WeixinJSBridgeReady', function onBridgeReady() {
 </script>
 </head>
 <body>
+<img src="../../common/img/xsr-300.png" style="position: absolute; left: -10000px;" />
 <div class="container">
 <div class="heading" style="position:relative">
  <h1 class="title">2048</h1>
@@ -67,7 +59,7 @@ document.addEventListener('WeixinJSBridgeReady', function onBridgeReady() {
   <div class="tile-container"></div>
 </div>
 <p class="game-explanation">
-<strong class="important">提示：</strong> 滑动屏幕（或方向键）移动方块。当两个方块数字相同时，合并成一个。
+<strong class="important">提示：</strong> 滑动屏幕（或方向键）移动方块。当两个方块数字相同时，合并成一个。 <span class="scores-container"> <a target="_blank" href="http://www.itstar.net">米辰网络</a> 提供</span>
 </p>
 </div>
 <script src="js/animframe_polyfill.js"></script>
